@@ -1,2 +1,0 @@
-# socio.oi
-bot
